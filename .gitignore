@@ -1,3 +1,4 @@
+#Archivos genericos
 *.log
 .vscode
 .DS_Store
@@ -6,3 +7,8 @@ Thumbs.bd
 /tmp
 ReadmeInstall.md
 
+#Archivos node.js
+node_modules/
+.env.local
+mpm-debug.log
+app.log
